@@ -4,10 +4,11 @@ import org.junit.jupiter.api.Test;
 
 /**
  * 
- * @author Cuppone Manuel
+ * @before
  *
  */
-class CupponeManuelTest_A {
+
+class CupponeManuelTest_B {
 
 	@Test
 	void test() {
