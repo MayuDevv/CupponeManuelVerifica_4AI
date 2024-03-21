@@ -4,7 +4,7 @@
  * @author <b>CupponeManuel</b>
  * <dl>4AI</dl>
  * <i>21/03/2024</i>
- *
+ * 
  */
 
 public class CupponeManuelClass {
@@ -28,7 +28,7 @@ public class CupponeManuelClass {
 	public int cupponeMet(int a, int e) {
 		int v=0; 
 		for(int i=0; i<=e; i++)
-			v+=v*a;
+			v+=a*a;
 		return v;
 	}
 	
